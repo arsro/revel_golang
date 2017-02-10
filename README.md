@@ -1,1 +1,0 @@
-# golang_revel_sample
