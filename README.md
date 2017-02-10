@@ -9,3 +9,7 @@
 4. docker build -t revel_image .
 
 5. docker run -it -p 9000:9000 --volume {DockerfileまでのPATH}:/home/revel/gocode/src revel_image bash --login
+
+6. cd /home/revel/gocode/src
+
+7. revel run server
